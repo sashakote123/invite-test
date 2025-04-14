@@ -1,0 +1,42 @@
+.total {
+    position: relative;
+
+    padding: 21px;
+    border-radius: 30px;
+    width: 348px;
+    height: 114px;
+
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+    background: #fff;
+}
+
+.totalPrice {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 15px;
+    color: #000;
+}
+
+.btn {
+    position: absolute;
+
+    left: 0;
+    top: 55px;
+
+    border-radius: 20px;
+    width: 348px;
+    height: 65px;
+
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.25);
+    background: #101010;
+
+    font-weight: 600;
+    font-size: 17px;
+    text-align: center;
+    color: #fff;
+}

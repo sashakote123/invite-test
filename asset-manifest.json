@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/invite-test/static/css/main.42b2eefa.css",
+    "main.js": "/invite-test/static/js/main.930b66fb.js",
+    "static/media/Image.png": "/invite-test/static/media/Image.de6100077f82bfc39145.png",
+    "static/media/Image2.png": "/invite-test/static/media/Image2.f73b2c97425ad92df816.png",
+    "static/media/VK.svg": "/invite-test/static/media/VK.1ac2cc8950aa67b1d5a09726dd0b60b1.svg",
+    "static/media/logo.svg": "/invite-test/static/media/logo.63670f2ac1af9b0965430bfcac27089f.svg",
+    "static/media/Whatsapp.svg": "/invite-test/static/media/Whatsapp.f998ac590f1ccfac664e5e7b82ff9d54.svg",
+    "static/media/cart.svg": "/invite-test/static/media/cart.d93aa996204975be68ead10224f6f601.svg",
+    "static/media/lang.svg": "/invite-test/static/media/lang.7b9cc68c2528ffcafcbc1fb1ef414f63.svg",
+    "static/media/Telegram.svg": "/invite-test/static/media/Telegram.4cff094a3c5b423ad84123f013184478.svg",
+    "static/media/delete.svg": "/invite-test/static/media/delete.fbdab6c486774a0a07c69be6507d4144.svg",
+    "index.html": "/invite-test/index.html",
+    "static/media/like.svg": "/invite-test/static/media/like.9a5c8c617a09c69fc0561f9f20dc6d0c.svg",
+    "static/media/star.svg": "/invite-test/static/media/star.52465aea59618e28393b22cbab61d80e.svg",
+    "main.42b2eefa.css.map": "/invite-test/static/css/main.42b2eefa.css.map",
+    "main.930b66fb.js.map": "/invite-test/static/js/main.930b66fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b2eefa.css",
+    "static/js/main.930b66fb.js"
+  ]
+}

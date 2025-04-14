@@ -1,0 +1,45 @@
+.header {
+    padding: 0 20px;
+    margin: 15px auto 0;
+    max-width: 1150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerLogo {
+}
+
+.headerLinks {
+    width: 120px;
+    display: flex;
+    align-items: center;
+    gap: 45px;
+}
+
+.link {
+    position: relative;
+
+    width: 22px;
+    height: 22px;
+}
+
+.counter {
+    position: absolute;
+    top: -7px;
+    right: -10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 17px;
+    height: 17px;
+    border-radius: 100%;
+    background-color: #ffa542;
+
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    color: #fff;
+}

@@ -1,0 +1,79 @@
+.item {
+    border-radius: 30px;
+    width: 350px;
+    height: 407px;
+
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+    background: #fff;
+
+    text-align: center;
+
+    list-style: none;
+
+    padding: 15px 18px 26px 18px;
+
+
+    transition: scale 0.1s ease-in;
+}
+
+.item:hover{
+    scale: 1.03;
+}
+
+.itemInfo {
+    margin-top: 45px;
+    margin-bottom: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name {
+    font-weight: 600;
+font-size: 17px;
+color: #1c1c27;
+}
+
+.prices {
+}
+
+.price {
+    font-weight: 600;
+font-size: 17px;
+color: #ffa542;
+}
+
+.priceWithDiscount {
+    font-weight: 600;
+font-size: 13px;
+text-decoration: line-through;
+color: #ffce7f;
+}
+
+.itemSubInfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rate {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 10px;
+}
+
+.rateInfo {
+}
+
+.buyBtn {
+    font-weight: 600;
+font-size: 17px;
+color: #000;
+}
+
+.buyBtn:hover{
+    scale: 1.07;
+}
